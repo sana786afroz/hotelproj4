@@ -1,0 +1,29 @@
+.utube{
+    box-shadow: 30px 20px 30px 10px rgba(0, 102, 255, 0.267);
+    margin-left: 15rem;
+    margin-top: 7rem;
+    border-radius: 30px;
+}
+.main h1{
+    font-size:5rem;
+    margin-left: 5rem;
+    margin-top: -1rem;
+    color: darkorange;
+}
+.btn{
+    margin-top: -55rem;
+    height: 5vh;
+    width: 13vw;
+    font-size: 2rem;
+    margin-left: 76rem;
+    border-radius: 30px;
+    color: rgb(77, 77, 245);
+    background-color: rgb(240, 176, 2);
+   
+   }
+   .btn:hover{
+    cursor: pointer;
+    background-color: rgb(77, 77, 245);
+    color: yellow;
+    transition: .5s;
+   }

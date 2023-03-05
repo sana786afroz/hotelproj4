@@ -1,0 +1,70 @@
+.midimg{
+    width: 20vw;
+    height: 30vh;
+   margin: 0px;
+   padding: 0px;
+   
+}
+.input1{
+    width: 20vw;
+    height: 5vh;
+    font-size: xx-large;
+    margin-left: 8rem;
+    border: none;
+    border-radius: 10px;
+    color: rgb(243, 238, 235);
+    background-color:  rgba(177, 41, 7, 0.774);
+}
+.input1:hover{
+    transition: .5s;
+    color: black;
+    background-color: beige;
+}
+.btn{
+    width: 15vw;
+    height: 5vh;
+    border-radius: 30px;
+    border: none;
+    color: rgb(237, 247, 248);
+    font-size: xx-large;
+    background-color: rgba(177, 41, 7, 0.774);
+}
+.btn:hover{
+    transition: .5s;
+    color: black;
+    background-color: beige;
+}
+.main{
+    width: 99.9vw;
+    height: 99.9vh;
+   
+}
+#bg{
+    background: url("https://images.adsttc.com/media/images/5527/0cf3/e58e/cea1/1900/037a/large_jpg/portada_001.jpg?1428622571");
+    margin-top: -1rem;
+}
+.card{
+    padding: 10px 10px;
+    width: 20vw;
+    margin: 30px;
+    justify-content: center;
+    /* background-color:rgb(180, 70, 70); */
+    background-color: rgb(206, 160, 160);
+  margin-top: 3rem;
+
+}
+
+.card:hover{
+    cursor: pointer;
+    transition: .8s;
+    /* margin: 40px; */
+    transform: scale(1.1,1.1) ;
+  
+    box-shadow: 10px 10px 10px 10px rgb(197, 133, 133);
+    
+}
+.maincard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

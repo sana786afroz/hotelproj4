@@ -1,0 +1,58 @@
+.maincard{
+   margin: 0px;
+   padding:0px;
+   /* border: 1px solid; */
+   width: 25vw;
+   height:50vh;
+   margin: 30px;
+   background-color: rgba(221, 209, 209, 0.575);
+   box-shadow: 5px 10px 0px 5px rgba(255, 251, 251, 0.836);
+}
+.maincard:hover{
+   cursor: pointer;
+   
+}
+
+.card{
+ margin: 10px;
+}
+.card:hover{
+    cursor: pointer;
+   
+}
+.midimg{
+width: 100%;
+
+}
+.caption{
+   margin-left: 2rem;
+}
+.address{
+    margin-left: 2rem;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn{
+    margin-top: -55rem;
+    height: 5vh;
+    width: 13vw;
+    font-size: 2rem;
+    margin-left: 76rem;
+    border-radius: 30px;
+    color: rgb(77, 77, 245);
+    background-color: rgb(240, 176, 2);
+   
+   }
+   .btn:hover{
+    cursor: pointer;
+    background-color: rgb(77, 77, 245);
+    color: yellow;
+    transition: .5s;
+   }
+.imgwall{
+    width: 100vw;
+    height: 100vh;
+}

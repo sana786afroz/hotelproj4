@@ -1,0 +1,291 @@
+.parent{
+    width: 60vw;
+    height: 92vh;
+    margin-left: 12.5rem;
+    margin-top: -30.7rem;
+
+}
+.midiv{
+    width: 50vw;
+    height: 10vh;
+    margin-left: 5rem;
+}
+.lowmid{
+    display: flex;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin-top: 2rem;
+}
+.div1{
+    border: 2px solid grey;
+    border-radius: 20px;
+    width: 19vw;
+    height: 10vh;
+}
+.div1:hover{
+    background-color: rgb(192, 209, 219);
+    cursor: pointer;
+    color:  rgb(26, 138, 202);
+}
+.div2{
+    border: 2px solid grey;
+    border-radius: 20px;
+    width: 19vw;
+    height: 10vh;
+}
+.div2:hover{
+    background-color: rgb(192, 209, 219);
+    cursor: pointer;
+    color:  rgb(26, 138, 202);
+}
+.div3{
+    border: 2px solid grey;
+    border-radius: 20px;
+    width: 19vw;
+    height: 10vh;
+}
+.div3:hover{
+    background-color: rgb(192, 209, 219);
+    cursor: pointer;
+    color:  rgb(26, 138, 202);
+}
+.maindiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    display: flex;
+}
+h2{
+    display: flex;
+}
+.secondiv{
+    border: none;
+    height: 25vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.secondiv:hover{
+   cursor: pointer; 
+}
+.div4{
+   
+    width: 25vw;
+    height: 24.5vh;
+    border-radius: 10px;
+}
+.div5{
+    border:none;
+    width: 25vw;
+    height: 24.5vh;
+    border-radius: 10px;
+}
+.div6{
+    border: none;
+    width: 25vw;
+    height: 24.5vh;
+    border-radius: 10px;
+}
+.img4{
+    width: 25vw;
+    height: 24.5vh;
+    border-radius: 10px;
+}
+.img5{
+    width: 25vw;
+    height: 24.5vh;
+    border-radius: 10px;
+}
+.img6{
+    width: 25vw;
+    height: 24.5vh;
+    border-radius: 10px;
+}
+
+.pop{
+    overflow: auto;
+    gap: 3rem;
+    width: 80vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div7{
+width: 20vw;
+height: 60vh;
+margin-top: 19rem;
+border-radius: 15px;
+}
+.div8{
+    width: 20vw;
+    height: 60vh;
+    margin-top: 19rem;
+    border-radius: 15px;
+}
+.div9{
+    width: 20vw;
+    height: 60vh;
+    margin-top: 19rem;
+    border-radius: 15px;
+}
+.div10{
+    width: 20vw;
+    height: 60vh;
+    margin-top: 19rem;
+    border-radius: 15px;
+}
+.div11{
+    width: 20vw;
+    height: 60vh;
+    margin-top: 19rem;
+    border-radius: 15px;
+}
+.img7{
+    width: 16.7vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+.img7:hover{
+   cursor: pointer; 
+}
+.img8{
+    width: 16.7vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+.img8:hover{
+     cursor: pointer; 
+}
+.img9{
+    width: 16.7vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+.img9:hover{
+     cursor: pointer;
+}
+.img10{
+    width: 16.7vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+.img10:hover{
+    cursor: pointer;   
+}
+.img11{
+    width: 16.7vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+.img11:hover{
+  cursor: pointer;   
+}
+.about{
+    width: 80vw;
+    height: 160vh;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: space-between;
+}
+.footer{
+    border: 2px solid;
+    margin: 2rem;
+    margin-left: -12.5rem;
+    width:98.3vw;
+    height: 40vh;
+}
+ul{
+    list-style: none;
+}
+.footer1{
+    display: flex;
+    gap:4rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    
+}
+.middlediv{
+  
+    width: 30vw;
+    height: 40vh;
+    
+    box-shadow: 10px 0px 20px 10px grey;
+   
+}
+.middlediv:hover{
+   
+    background-color:  rgb(216, 202, 210);
+    cursor: pointer;
+    transition: .7s;
+    
+    box-shadow: 5px 5px 5px 5px rgb(217, 210, 224);
+}
+
+a{
+ text-decoration: none;
+ color: rgb(15, 12, 12);  
+}
+a:hover{
+ text-decoration: underline;
+}
+li{
+    list-style: none;  
+}
+.divltd{
+    margin-left:1.5rem;
+    display:flex;
+    align-items:center;
+    gap:1rem;
+    margin-top: -2rem;
+    font-size: smaller;
+    color: grey;
+}
+.footer2{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap:2rem;
+    margin-left: -6rem;
+    margin-top: 2rem;
+    margin-bottom: -1rem;
+    font-size: smaller;
+    color: grey;
+}
+.midimg{
+    width: 350px;
+    height: 200px;
+ 
+
+}
+.middlediv p{
+    font-weight: 800;
+}
+.attractive{
+    margin-top: 6rem;
+    font-style: italic;
+}
+.btn{
+    border: 1px solid;
+    background-color: blueviolet;
+    color: black;
+    padding: 5px 5px;
+    margin-left: 60rem;
+    margin-top: -2rem;
+    margin-bottom: 2rem;
+    width: 13vw;
+    height: 3rem;
+    border-radius: 30px;
+    font-size: 1.3rem;
+
+}
+.btn:hover{
+    transform: scale(1.1,1.1);
+}

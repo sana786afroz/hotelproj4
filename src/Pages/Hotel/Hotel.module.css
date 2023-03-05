@@ -1,0 +1,68 @@
+
+.midimg{
+    width: 20vw;
+    height: 30vh;
+   margin: 0px;
+   padding: 0px;
+   /* border-radius: 30px; */
+}
+.imghotel{
+    width: 99.9vw;
+    height: 95vh;
+}
+.input1{
+    width: 20vw;
+    height: 5vh;
+    font-size: xx-large;
+    margin-left: 8rem;
+    border: none;
+    margin-top: -2rem;
+    border-radius: 10px;
+    color:rgb(32, 28, 21);
+    background-color:rgba(241, 169, 14, 0.712);
+}
+.btn{
+    width: 15vw;
+    height: 5vh;
+    color: rgb(71, 55, 12);
+    font-size: xx-large;
+    border-radius: 30px;
+    border: none;
+    margin-top: -2rem;
+    background-color: rgba(216, 143, 7, 0.979);
+}
+.main{
+    width: 99.9vw;
+    height: 99.9vh;  
+}
+#bg{
+    background: url("https://assets.architecturaldigest.in/photos/62de7667499ca8eca01447ae/master/pass/The%20infinity%20pool%20under%20the%20shade%20of%20a%20mango%20tree.png");
+    margin-top: -1rem;  
+}
+#bgc{
+    background-color: rgba(157, 238, 238, 0.932);
+}
+.card{
+  /* border-radius: 30px; */
+    width: 20vw;
+    margin: 30px;
+    background-color: rgba(231, 200, 23, 0.76);
+
+}
+.card:hover{
+    cursor: pointer;
+    transition: .5s;
+    /* margin: 40px; */
+    box-shadow: 10px 10px 20px 10px  rgba(216, 143, 7, 0.979);
+    transform: scale(1.1,1.1) ;
+}
+.maincard{
+    display: flex;
+    flex-wrap: wrap;
+}
+.loader{
+    margin-top: 20rem;
+    display: flex;
+    justify-content: center;
+    /* width: 50vw; */
+}

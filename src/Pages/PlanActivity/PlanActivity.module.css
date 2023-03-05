@@ -1,0 +1,75 @@
+.midimg{
+    width: 20vw;
+    height: 30vh;
+   margin: 0px;
+   padding: 0px;
+   border-radius: 30px;
+}
+.input1{
+    width: 20vw;
+    height: 4vh;
+    font-size: xx-large;
+    margin-left: 8rem;
+    border-radius: 10px;
+    color: rgb(12, 22, 0);
+    background-color:rgba(145, 231, 47, 0.986)
+}
+.input1:hover{
+    background-color: darkgreen;
+    color: yellowgreen;
+    transition: .8s; 
+}
+.btn{
+    width: 15vw;
+    height: 5vh;
+    border-radius: 10px;
+    color: rgb(12, 22, 0);
+    font-size: xx-large;
+    background-color: rgba(145, 231, 47, 0.986);
+}
+.btn:hover{
+    background-color: darkgreen;
+    color: yellowgreen;
+    transition: .8s;
+}
+.main{
+    width: 99.9vw;
+    height: 99.9vh;
+  /* border: 2px solid blue; */
+   
+}
+#bg{
+    background: url("https://www.wayanad.com/files/slides/2064569462.jpg");
+    margin-top: -1rem;
+}
+.lowerdiv h3{
+    margin-top: -3rem;
+    margin-left: 3rem;
+    font-weight: 900;
+}
+.card{
+ 
+    width: 20vw;
+    margin: 30px;
+    border-radius: 30px;
+    padding: 10px 10px;
+    background-color: rgba(31, 94, 6, 0.788);
+
+}
+
+.card:hover{
+    cursor: pointer;
+    transition: .5s;
+    /* margin: 40px; */
+    box-shadow: 10px 10px 20px 10px  rgba(4, 78, 8, 0.623);
+    transform: scale(1.1,1.1) ;
+}
+.maincard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -30rem;
+    
+  
+}
+

@@ -1,0 +1,35 @@
+.input1{
+    width: 20vw;
+    height: 5vh;
+    padding: 0;
+    border-radius: 10px;
+    font-size: xx-large;
+    margin-left: 8rem;
+    margin-top: -4rem;
+    color:  rgb(54, 6, 78);
+    background-color: rgb(233, 181, 211);
+}
+.input1:hover{
+background-color: rgb(54, 6, 78) ;
+color:  rgb(233, 181, 211);
+transition: .8s;
+}
+.btn{
+    width: 15vw;
+    height: 6vh;
+    margin-top: 3rem;
+    padding: 0;
+    border-radius: 30px;
+    color: rgb(54, 6, 78);
+    font-size: xx-large;
+    background-color: rgb(233, 181, 211);
+}
+.btn:hover{
+    background-color: rgb(54, 6, 78) ;
+color:  rgb(233, 181, 211);
+transition: .8s;
+}
+.midimg{
+    width: 20vw;
+    height: 20vh;
+}

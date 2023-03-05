@@ -1,0 +1,61 @@
+.input1{
+    width: 20vw;
+    height: 5vh;
+    border-radius: 30px;
+    font-size: xx-large;
+    margin-left: 8rem;
+    color:  rgba(86, 7, 212, 0.966);
+    margin-top: 5rem;
+    background-color:rgba(241, 237, 235, 0.548);
+}
+.btn{
+    width: 10vw;
+    height: 5vh;
+    border-radius: 30px;
+    margin-top: 6rem;
+    color: rgb(3, 3, 3);
+    font-size: x-large;
+    background-color:  rgba(80, 19, 179, 0.678);
+}
+.btn:hover{
+    color: white;
+    transition: .5s;   
+}
+.main{
+    width: 99.9vw;
+    height: 99.5vh;
+    margin-top: -2.5rem;   
+}
+#bg{
+    background: url("https://www.hok.com/wp-content/uploads/2019/05/OHare-International-Airport-Terminal-5-Exterior-1900.jpg");   
+}
+.main h1{
+    color: rgba(86, 7, 212, 0.966);
+    font-size: 4rem;
+    
+}
+.main h2{
+    color:  rgba(86, 7, 212, 0.966);
+}
+.card{
+    width: 20vw;
+    height:30vh;
+    background-color: rgb(214, 205, 236);
+    align-items: center;
+    margin: 20px;   
+    padding: 10px 10px;
+    border-radius: 30px;
+}
+.card:hover{
+    transition: .5s;
+    box-shadow:10px 10px 20px 20px rgb(198, 182, 235) ;
+    cursor: pointer;
+    transform: scale(1.1,1.1) ;
+    
+    color: rgb(40, 3, 54);
+    background-color: rgb(168, 139, 236);
+}
+.maincard{
+   display: flex;
+   flex-wrap: wrap;
+}

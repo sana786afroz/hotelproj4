@@ -1,0 +1,42 @@
+.wrapper{
+    /* border: 2px solid rebeccapurple; */
+    width: 12vw;
+    height: 58.vh;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.icons{
+    background-color: white;
+    border: 2px solid rgb(250, 249, 249);  
+    border-radius: 10px;
+    height: 3rem;
+    color: #0F1419;
+    text-decoration: none;
+    display: flex;
+    padding: 7px;
+    padding-top: 10px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-top: 2rem;
+  }
+  .icons:link{
+    color:none;
+    text-decoration: none;
+}
+.icons:hover{
+    background-color: rgb(192, 209, 219);
+    cursor: pointer;
+    color:  rgb(26, 138, 202);
+}
+.parent{
+    border: 2px solid rgb(71, 153, 51);
+
+}
+.search{
+    border: 2px solid;
+    width: 30vw;
+   
+  margin-left: 15rem;
+
+}
